@@ -1,7 +1,7 @@
 # sea.deep.temperature
 STATISTICAL SOFTWARE:R and SAS - Laboratory with R for sea water temperature analysis (MESIO UPC-UB)
 
-The repository aims to contribute to the study of climate change by providing metrics and analysis on data of the sea water temperatures, mainly ranging from 2000 up to 2022.
+The repository aims to contribute to the study of climate change by providing metrics and analysis on data of the sea water temperatures, mainly ranging from 2000 up to 2023.
 
 This repository contains an R script for the analysis and plotting of data and data analysis related to the sea water temperature in Medes islands in the catalan coast at several depths (0, -20, -50, -80 metres). 
 
