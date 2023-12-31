@@ -13,4 +13,4 @@ The data belonging to Medes islands has been retrieved from https://www.idescat.
 
 All credits for the cross-validation data from https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data belongs to their respective authors (Berkely Earth, affiliated with Lawrence Berkeley National Laboratory). The cross-validation data has been measured at diverse sites.
 
-In addition, the repository contains 2 R packages: forecast for the prediction of the sea water temperatures at Medes islands based on the data retrieved from https://www.idescat.cat/indicadors/?id=aec&n=15196&t=200000. An additional R package containing several functions of the R script that can be installed and used.
+In addition, the repository contains 2 R packages: forecast for the prediction of the sea water temperatures at Medes islands based on the data retrieved from https://www.idescat.cat/indicadors/?id=aec&n=15196&t=200000. An additional R package named data_and_functions containing useful functions of the R script as well as the source data.
